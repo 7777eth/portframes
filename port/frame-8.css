@@ -1,0 +1,147 @@
+.aayusthetic3 {
+  position: absolute;
+  top: 29px;
+  left: 344px;
+  color: var(--color-darkgray-100);
+}
+.about3 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 78px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.ellipse-icon {
+  position: absolute;
+  top: calc(50% - 696px);
+  left: calc(50% - 795px);
+  width: 699px;
+  height: 1392px;
+}
+.group-child10 {
+  position: absolute;
+  top: 227px;
+  left: 206px;
+  background-color: var(--color-gray);
+  width: 1384px;
+  height: 928px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: calc(50% - 696px);
+  left: calc(50% - 607px);
+  width: 1590px;
+  height: 1392px;
+}
+.work3 {
+  position: absolute;
+  top: 0;
+  left: 124px;
+  text-transform: uppercase;
+}
+.home3 {
+  left: 0;
+}
+.about4,
+.contact4,
+.home3 {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+}
+.about4 {
+  left: 238px;
+  text-decoration: underline;
+}
+.contact4 {
+  left: 369px;
+}
+.work-parent1 {
+  position: absolute;
+  top: 29px;
+  left: 1118px;
+  width: 450px;
+  height: 20px;
+}
+.be3,
+.group-child11,
+.in3 {
+  position: absolute;
+  top: 0;
+  left: 46px;
+}
+.be3,
+.group-child11 {
+  left: 0;
+}
+.group-child11 {
+  top: 5.5px;
+  left: 14.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 6px;
+  height: 1px;
+}
+.be-parent1 {
+  position: absolute;
+  top: 0;
+  left: 90px;
+  width: 23px;
+  height: 20px;
+}
+.group-child12,
+.group-child13,
+.ig-parent1 {
+  position: absolute;
+  top: 2.5px;
+  left: 31.5px;
+  width: 1px;
+  height: 15px;
+}
+.group-child13,
+.ig-parent1 {
+  left: 75.5px;
+}
+.ig-parent1 {
+  top: 863px;
+  left: 1601px;
+  width: 113px;
+  height: 20px;
+}
+.who {
+  font-weight: 500;
+}
+.who-am-i-container {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: 0;
+}
+.who-am-i-wrapper {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 500px;
+  width: 190px;
+  height: 39px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.rectangle-icon {
+  position: absolute;
+  top: calc(50% - 354px);
+  left: 1055px;
+  border-radius: 27px;
+  width: 647px;
+  height: 692px;
+  object-fit: cover;
+}
+.aayusthetic-wrapper {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 938px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-montserrat);
+}

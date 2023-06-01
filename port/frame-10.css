@@ -1,0 +1,398 @@
+.aayusthetic1 {
+  position: absolute;
+  top: 29px;
+  left: 344px;
+}
+.frame-inner {
+  position: absolute;
+  top: calc(50% - 696px);
+  left: calc(50% - 608px);
+  width: 1398px;
+  height: 1392px;
+}
+.frame-child1 {
+  position: absolute;
+  top: 0;
+  left: 950px;
+  background-color: var(--color-white);
+  width: 1767px;
+  height: 928px;
+}
+.about1,
+.contact1,
+.home1,
+.work1 {
+  position: absolute;
+  top: 0;
+  left: 124px;
+  text-transform: uppercase;
+}
+.about1,
+.contact1,
+.home1 {
+  left: 0;
+}
+.about1,
+.contact1 {
+  left: 250px;
+}
+.contact1 {
+  left: 381px;
+  text-decoration: underline;
+  color: var(--color-black);
+}
+.work-group {
+  position: absolute;
+  top: 29px;
+  left: 1926px;
+  width: 462px;
+  height: 20px;
+  color: var(--color-darkgray-100);
+}
+.be1,
+.in1,
+.line-div {
+  position: absolute;
+  top: 0;
+  left: 46px;
+}
+.be1,
+.line-div {
+  left: 0;
+}
+.line-div {
+  top: 5.5px;
+  left: 14.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 6px;
+  height: 1px;
+}
+.be-group {
+  position: absolute;
+  top: 0;
+  left: 90px;
+  width: 23px;
+  height: 20px;
+}
+.group-child1,
+.ig-group,
+.line-icon {
+  position: absolute;
+  top: 2.5px;
+  left: 31.5px;
+  width: 1px;
+  height: 15px;
+}
+.group-child1,
+.ig-group {
+  left: 75.5px;
+}
+.ig-group {
+  top: 863px;
+  left: 2432px;
+  width: 113px;
+  height: 20px;
+}
+.contact2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-weight: 500;
+}
+.contact-wrapper,
+.lets-connect {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+}
+.contact-wrapper {
+  bottom: 433px;
+  left: 82px;
+  width: 129px;
+  height: 39px;
+  color: var(--color-white);
+}
+.lets-connect {
+  top: calc(50% - 8px);
+  left: 487px;
+  font-weight: 600;
+  background: linear-gradient(90deg, #a49f9f 8.56%, rgba(164, 159, 159, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.start-a-conversation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.div,
+.group-wrapper,
+.wrapper {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: 0;
+}
+.div {
+  font-weight: 600;
+  -webkit-text-stroke: 1px #000;
+}
+.group-wrapper,
+.wrapper {
+  width: 526px;
+  height: 78px;
+}
+.group-wrapper {
+  top: calc(50% - 87px);
+}
+.aayustheticgmailcom {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: 0;
+  font-weight: 600;
+}
+.aayustheticgmailcom-wrapper,
+.group-container,
+.group-parent {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: 0;
+  width: 799px;
+  height: 78px;
+}
+.group-container,
+.group-parent {
+  top: calc(50% + 9px);
+}
+.group-parent {
+  top: calc(50% - 86.6px);
+  height: 174px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-gray);
+}
+.image-21-icon {
+  position: absolute;
+  top: 292px;
+  left: 39px;
+  width: 27px;
+  height: 26px;
+  object-fit: cover;
+}
+.mdilink-variant-icon {
+  position: absolute;
+  top: 291px;
+  left: 106px;
+  width: 31px;
+  height: 31px;
+}
+.image-22-icon,
+.image-23-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-22-icon {
+  height: 8.96%;
+  width: 3.45%;
+  top: 91.04%;
+  right: 75.99%;
+  bottom: 0;
+  left: 20.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-23-icon {
+  top: 292px;
+  left: 235px;
+  width: 38px;
+  height: 29px;
+}
+.start-a-conversation-parent {
+  position: absolute;
+  top: 255px;
+  left: 1011px;
+  width: 799px;
+  height: 327.21px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkgray-100);
+}
+.website-and-projects {
+  margin: 0;
+}
+.website-and-projects-container {
+  position: absolute;
+  top: 637px;
+  left: 1050px;
+  font-size: 12px;
+  text-transform: lowercase;
+  font-weight: 600;
+  color: #c8c8c8;
+  text-align: center;
+}
+.name,
+.name-wrapper {
+  position: absolute;
+  left: 0;
+}
+.name {
+  bottom: 0;
+  font-weight: 600;
+}
+.name-wrapper {
+  bottom: 74px;
+  width: 62px;
+  height: 24px;
+}
+.group-child2 {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 648px;
+  height: 60px;
+}
+.your-name-wrapper {
+  position: absolute;
+  bottom: 11px;
+  left: 20px;
+  width: 84px;
+  height: 18px;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray-200);
+}
+.group-parent1,
+.last-name-wrapper {
+  position: absolute;
+  bottom: 543.75px;
+  left: 0;
+  width: 648px;
+  height: 98px;
+}
+.last-name-wrapper {
+  bottom: 74px;
+  width: 108px;
+  height: 24px;
+}
+.your-last-name-wrapper {
+  position: absolute;
+  bottom: 11px;
+  left: 20px;
+  width: 121px;
+  height: 18px;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray-200);
+}
+.group-parent2 {
+  position: absolute;
+  bottom: 413.75px;
+  left: 0;
+  width: 648px;
+  height: 98px;
+}
+.group-parent4,
+.your-email-wrapper {
+  position: absolute;
+  bottom: 74px;
+  left: 0;
+  width: 111px;
+  height: 24px;
+}
+.group-parent4 {
+  bottom: 0;
+  width: 648px;
+  height: 98px;
+}
+.your-email-address-wrapper {
+  position: absolute;
+  bottom: 11px;
+  left: 20px;
+  width: 150px;
+  height: 18px;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray-200);
+}
+.group-parent3,
+.message-wrapper {
+  position: absolute;
+  bottom: 283.75px;
+  left: 0;
+  width: 648px;
+  height: 98px;
+}
+.message-wrapper {
+  bottom: 142px;
+  width: 91px;
+  height: 24px;
+}
+.group-child5 {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 648px;
+  height: 128px;
+}
+.write-your-message-wrapper {
+  position: absolute;
+  bottom: 80px;
+  left: 20px;
+  width: 155px;
+  height: 18px;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray-200);
+}
+.group-parent5 {
+  position: absolute;
+  bottom: 85.75px;
+  left: 0;
+  width: 648px;
+  height: 166px;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11px;
+  background-color: var(--color-black);
+  width: 170px;
+  height: 63.75px;
+}
+.submit,
+.submit-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.submit-wrapper {
+  bottom: 9.75px;
+  left: 47px;
+  width: 76px;
+  height: 24px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 578px;
+  left: 0;
+  width: 170px;
+  height: 63.75px;
+  color: var(--color-whitesmoke-100);
+}
+.group-div {
+  position: absolute;
+  bottom: 116.25px;
+  left: 1897px;
+  width: 648px;
+  height: 641.75px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.aayusthetic-root {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 938px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,177 @@
+.aayusthetic {
+  position: absolute;
+  top: 31px;
+  left: 241px;
+}
+.work {
+  left: 124px;
+}
+.about,
+.contact,
+.home,
+.work {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+}
+.home {
+  left: 0;
+  text-decoration: underline;
+}
+.about,
+.contact {
+  left: 250px;
+}
+.contact {
+  left: 381px;
+}
+.work-parent {
+  position: absolute;
+  top: 31px;
+  left: 1118px;
+  width: 462px;
+  height: 20px;
+  color: var(--color-darkgray-100);
+}
+.ig {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+}
+.be,
+.group-child,
+.in {
+  position: absolute;
+  top: 0;
+  left: 46px;
+}
+.be,
+.group-child {
+  left: 0;
+}
+.group-child {
+  top: 5.5px;
+  left: 14.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 6px;
+  height: 1px;
+}
+.be-parent {
+  position: absolute;
+  top: 0;
+  left: 90px;
+  width: 23px;
+  height: 20px;
+}
+.group-inner,
+.group-item,
+.ig-parent {
+  position: absolute;
+  top: 2.5px;
+  left: 31.5px;
+  width: 1px;
+  height: 15px;
+}
+.group-inner,
+.ig-parent {
+  left: 75.5px;
+}
+.ig-parent {
+  top: 863px;
+  left: 1601px;
+  width: 113px;
+  height: 20px;
+  color: var(--color-gainsboro-100);
+}
+.frame-child {
+  position: absolute;
+  height: 1.9%;
+  width: 1.92%;
+  top: 45.37%;
+  right: 49.01%;
+  bottom: 52.73%;
+  left: 49.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.image-26-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 465px;
+  left: 364px;
+  background-color: var(--color-black);
+  width: 150px;
+  height: 57px;
+}
+.image-26-parent {
+  position: absolute;
+  top: 214px;
+  left: 687px;
+  width: 514px;
+  height: 522px;
+}
+.design-is {
+  font-weight: 500;
+}
+.thinking {
+  font-weight: 900;
+}
+.design-is-thinking-container {
+  position: absolute;
+  top: calc(50% - 27.17px);
+  left: calc(50% - 537px);
+}
+.bulb-icon {
+  position: absolute;
+  top: 0;
+  left: 513.2px;
+  width: 50.8px;
+  height: 44.71px;
+}
+.design-is-thinking-made-visual-parent {
+  position: absolute;
+  top: calc(50% - 62.67px);
+  left: calc(50% - 537px);
+  width: 1074px;
+  height: 101.67px;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.scroll {
+  position: absolute;
+  top: calc(50% + 342px);
+  left: 1675px;
+  font-size: 14px;
+  color: #f8f8f8;
+  display: inline-block;
+  width: 39px;
+}
+.frame-item {
+  position: absolute;
+  top: 812px;
+  left: 1655px;
+  width: 8px;
+  height: 8px;
+}
+.aayusthetic-parent {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 938px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: #e8e8e8;
+  font-family: var(--font-montserrat);
+}

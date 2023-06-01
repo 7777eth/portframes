@@ -1,0 +1,221 @@
+.aayusthetic2,
+.work2 {
+  position: absolute;
+  top: 29px;
+  left: 343px;
+}
+.work2 {
+  top: 0;
+  left: 124px;
+  text-transform: uppercase;
+}
+.home2 {
+  left: 0;
+}
+.about2,
+.contact3,
+.home2 {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+}
+.about2 {
+  left: 238px;
+  text-decoration: underline;
+}
+.contact3 {
+  left: 369px;
+}
+.work-container {
+  position: absolute;
+  top: 29px;
+  left: 1117px;
+  width: 450px;
+  height: 20px;
+}
+.be2,
+.group-child7,
+.in2 {
+  position: absolute;
+  top: 0;
+  left: 46px;
+}
+.be2,
+.group-child7 {
+  left: 0;
+}
+.group-child7 {
+  top: 5.5px;
+  left: 14.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 6px;
+  height: 1px;
+}
+.be-container {
+  position: absolute;
+  top: 0;
+  left: 90px;
+  width: 23px;
+  height: 20px;
+}
+.group-child8,
+.group-child9,
+.ig-container {
+  position: absolute;
+  top: 2.5px;
+  left: 31.5px;
+  width: 1px;
+  height: 15px;
+}
+.group-child9,
+.ig-container {
+  left: 75.5px;
+}
+.ig-container {
+  top: 863px;
+  left: 1600px;
+  width: 113px;
+  height: 20px;
+}
+.im-aayush-patil {
+  font-weight: 500;
+}
+.uiux-designer {
+  font-weight: 600;
+}
+.im-aayush-patil-container {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: 0;
+}
+.group-frame,
+.im-aayush-patil-and-im-a-ui-wrapper {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: 0;
+  width: 1362px;
+  height: 78px;
+}
+.group-frame {
+  top: calc(50% - 209px);
+  left: -55px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.a-passionate-uiux {
+  margin: 0;
+}
+.a-passionate-uiux-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.a-passionate-uiux-container {
+  position: absolute;
+  top: 433px;
+  left: calc(50% - 974.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 523px;
+}
+.senior-secondary-xii-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 292.5px);
+}
+.bachelor-of-design-container,
+.bachelor-of-design-container1 {
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 292.5px);
+}
+.bachelor-of-design-container1 {
+  top: 100px;
+}
+.present-freelance-designer-container,
+.present-video-editor-container {
+  position: absolute;
+  top: 150px;
+  left: calc(50% - 292.5px);
+}
+.present-video-editor-container {
+  top: 200px;
+}
+.senior-secondary-xii-comme-parent {
+  position: absolute;
+  top: 433px;
+  left: calc(50% - 335.5px);
+  width: 585px;
+  height: 224px;
+  font-size: var(--font-size-xl);
+}
+.skills {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 100px);
+  font-weight: 600;
+}
+.objects-icon,
+.objects-icon1,
+.objects-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.objects-icon1,
+.objects-icon2 {
+  top: 46px;
+}
+.objects-icon2 {
+  top: 92px;
+}
+.span3 {
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.cinematography,
+.design,
+.photography {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 77px);
+}
+.cinematography,
+.photography {
+  top: 49px;
+  font-weight: 600;
+}
+.cinematography {
+  top: 95px;
+}
+.objects-parent {
+  position: absolute;
+  top: 52px;
+  left: 6px;
+  width: 194px;
+  height: 122px;
+  font-size: var(--font-size-xl);
+}
+.skills-parent {
+  position: absolute;
+  top: 433px;
+  left: calc(50% + 377.5px);
+  width: 200px;
+  height: 174px;
+  font-size: var(--font-size-5xl);
+}
+.aayusthetic-top {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 938px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-montserrat);
+}
